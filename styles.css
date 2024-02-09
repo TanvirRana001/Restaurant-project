@@ -1,5 +1,5 @@
 .bg_pic {
-    background: url(photos.R/bg.pic2.jpg);
+    background: url(photos/bg.pic2.jpg);
     height: 600px;
     background-size: cover;
 }
